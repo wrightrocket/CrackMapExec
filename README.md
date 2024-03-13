@@ -2,6 +2,8 @@
 
 This project is no longer mantained due to the existence of a hostile fork.
 
+I have found reference to this code in examples that are used in educational ethical hacking.
+
 # CrackMapExec
 
 <p align="center">
